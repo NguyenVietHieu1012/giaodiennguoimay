@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chi tiết sản phẩm Pizza</title>
+  <style>
+    #pizza-container {
+      width: 100%;
+      height: 500px;
+      
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/build/three.min.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', init);
+
+    function init() {
+      var scene = new THREE.Scene();
+      var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+      var renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.getElementById('pizza-container').appendChild(renderer.domElement);
+
+      var geometry = new THREE.BoxGeometry(0.5, 0.5, 0.5);
+      var material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
+      var cube = new THREE.Mesh(geometry, material);
+      scene.add(cube);
+
+      camera.position.z = 2;
+
+      function animate() {
+        requestAnimationFrame(animate);
+        cube.rotation.x += 0.01;
+        cube.rotation.y += 0.01;
+        renderer.render(scene, camera);
+      }
+
+      animate();
+    }
+  </script>
+</head>
+<body>
+  <h1>Pizza full topping hải sản xốt ngọt</h1>
+  <div id="pizza-container"></div>
+  <h2>Thông tin sản phẩm</h2>
+  <ul>
+    <li>Tên: Pizza full topping hải sản xốt ngọt</li>
+    <li>Giá: $10</li>
+    <li>Thành phần: Tôm, cua, mực, hành, xốt ngọt</li>
+    <li>Mô tả: Một chiếc pizza đầy đặn với hải sản tươi ngon, kết hợp với xốt ngọt ngào và mùi thơm của hành. Thưởng thức món pizza này sẽ mang đến cho bạn một trải nghiệm ẩm thực tuyệt vời.</li>
+  </ul>
+</body>
+</html>

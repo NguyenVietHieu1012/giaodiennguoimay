@@ -1,0 +1,1128 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.address-shop-list-TVW {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.address-shop-list-TVW .header-bbi {
+  width: 100%;
+  height: 7.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #f05f42;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-xwhv-wQg {
+  box-sizing: border-box;
+  padding: 0.9rem 1.2rem 0.9rem 1.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-xwhv-wQg .auto-group-rhoa-Tdv {
+  margin-right: 3.1rem;
+  width: 21.8rem;
+  height: 100%;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-xwhv-wQg .trang-ch-Lxc {
+  margin: 0.2rem 2.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-xwhv-wQg .khuyn-mi-Skk {
+  margin: 0.2rem 2.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-xwhv-wQg .thc-n-YYt {
+  margin: 0.2rem 1.9rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-xwhv-wQg .theo-di-n-hng-4GL {
+  margin-top: 0.2rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-rsma-AqA {
+  margin-right: 1.5rem;
+  width: 22.6rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fcc37b;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .blog-4Qk {
+  margin-top: 0.2rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-brsz-Phv {
+  box-sizing: border-box;
+  padding: 2.3rem 2.646rem 2rem 5.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-brsz-Phv .c-X3S {
+  margin: 0.8rem 1.5rem 1rem 0rem;
+  height: calc(100% - 1.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-brsz-Phv .c-X3S .image-2-4JG {
+  margin-right: 0.7rem;
+  width: 3.4rem;
+  height: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-brsz-Phv .c-X3S .image-3-miU {
+  width: 3.4rem;
+  height: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-brsz-Phv .map-pin-6Vr {
+  margin-right: 1.3rem;
+  width: 2.7rem;
+  height: 3.5rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-brsz-Phv .icon-person-Ro2 {
+  margin: 0.011rem 1.446rem 0rem 0rem;
+  width: 3.4rem;
+  height: 3.3107rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .header-bbi .auto-group-brsz-Phv .shopping-cart-LQC {
+  margin-bottom: 0.1458rem;
+  width: 3.2083rem;
+  height: 3.0625rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x {
+  box-sizing: border-box;
+  padding: 8.5rem 7.3rem 4.7rem 10.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-gxma-Au2 {
+  margin: 0rem 42.2rem 0.7rem 1.2rem;
+  width: calc(100% - 43.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-gxma-Au2 .la-chn-thnh-ph-tnh-uLp {
+  margin-right: 25.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-gxma-Au2 .la-chn-qun-huyn-oh6 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-5fba-8Da {
+  margin-bottom: 12.4rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-5fba-8Da .auto-group-ald2-fzC {
+  margin-right: 8.1rem;
+  width: 48.1rem;
+  height: 6.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-5fba-8Da .auto-group-ald2-fzC .chn-thnh-ph-tnh-DVv {
+  width: 24.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 1.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cacaca;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-5fba-8Da .auto-group-ald2-fzC .group-90-VyE {
+  box-sizing: border-box;
+  padding: 1.8rem 2.586rem 1.793rem 43.012rem;
+  width: 48.1rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #f05f42;
+  border-radius: 3rem;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-5fba-8Da .auto-group-ald2-fzC .group-90-VyE .polygon-2-pVi {
+  width: 2.5026rem;
+  height: 2.507rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-5fba-8Da .auto-group-eggt-8FW {
+  margin-right: 6.2rem;
+  width: 46.1rem;
+  height: 6.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-5fba-8Da .auto-group-eggt-8FW .group-89-Toa {
+  box-sizing: border-box;
+  padding: 1.8rem 1.19rem 1.793rem 42.511rem;
+  width: 46.1rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #f05f42;
+  border-radius: 3rem;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-5fba-8Da .auto-group-eggt-8FW .group-89-Toa .polygon-3-n5A {
+  width: 2.3986rem;
+  height: 2.507rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-5fba-8Da .auto-group-eggt-8FW .chn-qun-huyn-6Lk {
+  width: 21.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #cacaca;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-5fba-8Da .auto-group-adc8-wsA {
+  margin-bottom: 0.2rem;
+  width: 17.9rem;
+  height: 6.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f05f42;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ {
+  margin: 0rem 6rem 4.6rem 3.5rem;
+  width: calc(100% - 9.5rem);
+  height: 32.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-91-5rt {
+  margin-right: 12.1rem;
+  box-sizing: border-box;
+  padding: 6.3rem 4.6rem 6.2rem 5.3rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-91-5rt .mcdonalds-the-loop-iph-Psa {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-91-5rt .a-ch-241-xun-thy-cu-giy-hn-i9A {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-91-5rt .in-thoi-024-32115483-1e4 {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-91-5rt .email-feedbackvnmcdcom-uzL {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-91-5rt .customer-service-hotline-1900-9001-2ZA {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-103-igt {
+  width: 52.4rem;
+  height: 100%;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-103-igt .group-92-HEC {
+  box-sizing: border-box;
+  padding: 6.3rem 3.9rem 6.2rem 6rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-103-igt .group-92-HEC .mcdonalds-the-loop-iph-Crx {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-103-igt .group-92-HEC .a-ch-241-xun-thy-cu-giy-hn-j6C {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-103-igt .group-92-HEC .in-thoi-024-32115483-SmJ {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-103-igt .group-92-HEC .email-feedbackvnmcdcom-YpL {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-r8yt-mLQ .group-103-igt .group-92-HEC .customer-service-hotline-1900-9001-UT6 {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N {
+  margin: 0rem 6rem 4.6rem 3.5rem;
+  width: calc(100% - 9.5rem);
+  height: 32.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-94-sk8 {
+  margin-right: 12.1rem;
+  box-sizing: border-box;
+  padding: 6.3rem 4.6rem 6.2rem 5.3rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-94-sk8 .mcdonalds-the-loop-iph-ncC {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-94-sk8 .a-ch-241-xun-thy-cu-giy-hn-W2Q {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-94-sk8 .in-thoi-024-32115483-cLL {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-94-sk8 .email-feedbackvnmcdcom-8Jg {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-94-sk8 .customer-service-hotline-1900-9001-F8Q {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-93-Wq2 {
+  box-sizing: border-box;
+  padding: 6.3rem 3.9rem 6.2rem 6rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-93-Wq2 .mcdonalds-the-loop-iph-pqi {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-93-Wq2 .a-ch-241-xun-thy-cu-giy-hn-YWp {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-93-Wq2 .in-thoi-024-32115483-4EG {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-93-Wq2 .email-feedbackvnmcdcom-mPa {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-uvdr-x7N .group-93-Wq2 .customer-service-hotline-1900-9001-tUC {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg {
+  margin: 0rem 6rem 4.6rem 3.5rem;
+  width: calc(100% - 9.5rem);
+  height: 32.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-96-JXv {
+  margin-right: 12.1rem;
+  box-sizing: border-box;
+  padding: 6.3rem 4.6rem 6.2rem 5.3rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-96-JXv .mcdonalds-the-loop-iph-pFN {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-96-JXv .a-ch-241-xun-thy-cu-giy-hn-YBN {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-96-JXv .in-thoi-024-32115483-fFz {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-96-JXv .email-feedbackvnmcdcom-y1n {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-96-JXv .customer-service-hotline-1900-9001-gRz {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-95-aXN {
+  box-sizing: border-box;
+  padding: 6.3rem 3.9rem 6.2rem 6rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-95-aXN .mcdonalds-the-loop-iph-6kc {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-95-aXN .a-ch-241-xun-thy-cu-giy-hn-28U {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-95-aXN .in-thoi-024-32115483-9D6 {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-95-aXN .email-feedbackvnmcdcom-G2p {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yhtp-nJg .group-95-aXN .customer-service-hotline-1900-9001-nWx {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 {
+  margin: 0rem 6rem 4.6rem 3.5rem;
+  width: calc(100% - 9.5rem);
+  height: 32.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-98-cF6 {
+  margin-right: 12.1rem;
+  box-sizing: border-box;
+  padding: 6.3rem 4.6rem 6.2rem 5.3rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-98-cF6 .mcdonalds-the-loop-iph-7xY {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-98-cF6 .a-ch-241-xun-thy-cu-giy-hn-qde {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-98-cF6 .in-thoi-024-32115483-xiG {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-98-cF6 .email-feedbackvnmcdcom-UwW {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-98-cF6 .customer-service-hotline-1900-9001-oTz {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-97-uG8 {
+  box-sizing: border-box;
+  padding: 6.3rem 3.9rem 6.2rem 6rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-97-uG8 .mcdonalds-the-loop-iph-2Lk {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-97-uG8 .a-ch-241-xun-thy-cu-giy-hn-9AU {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-97-uG8 .in-thoi-024-32115483-4oE {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-97-uG8 .email-feedbackvnmcdcom-yfJ {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-yi3e-5W4 .group-97-uG8 .customer-service-hotline-1900-9001-Jha {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r {
+  margin: 0rem 6rem 4.6rem 3.5rem;
+  width: calc(100% - 9.5rem);
+  height: 32.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-100-wEk {
+  margin-right: 12.1rem;
+  box-sizing: border-box;
+  padding: 6.3rem 4.6rem 6.2rem 5.3rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-100-wEk .mcdonalds-the-loop-iph-qqv {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-100-wEk .a-ch-241-xun-thy-cu-giy-hn-ANQ {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-100-wEk .in-thoi-024-32115483-HT2 {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-100-wEk .email-feedbackvnmcdcom-C4C {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-100-wEk .customer-service-hotline-1900-9001-iHS {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-99-CTW {
+  box-sizing: border-box;
+  padding: 6.3rem 3.9rem 6.2rem 6rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-99-CTW .mcdonalds-the-loop-iph-iRr {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-99-CTW .a-ch-241-xun-thy-cu-giy-hn-e4c {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-99-CTW .in-thoi-024-32115483-AHr {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-99-CTW .email-feedbackvnmcdcom-sxx {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-g7lg-D3r .group-99-CTW .customer-service-hotline-1900-9001-D1E {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap {
+  margin: 0rem 6rem 0rem 3.5rem;
+  width: calc(100% - 9.5rem);
+  height: 32.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-102-pmi {
+  margin-right: 12.1rem;
+  box-sizing: border-box;
+  padding: 6.3rem 4.6rem 6.2rem 5.3rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-102-pmi .mcdonalds-the-loop-iph-jNt {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-102-pmi .a-ch-241-xun-thy-cu-giy-hn-riQ {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-102-pmi .in-thoi-024-32115483-yo2 {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-102-pmi .email-feedbackvnmcdcom-hU8 {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-102-pmi .customer-service-hotline-1900-9001-cqz {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-101-toW {
+  box-sizing: border-box;
+  padding: 6.3rem 3.9rem 6.2rem 6rem;
+  width: 52.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f05f42;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-101-toW .mcdonalds-the-loop-iph-ovU {
+  margin: 0rem 5.2rem 1.4rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-101-toW .a-ch-241-xun-thy-cu-giy-hn-X5n {
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-101-toW .in-thoi-024-32115483-STe {
+  margin: 0rem 11.7rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-101-toW .email-feedbackvnmcdcom-xRz {
+  margin: 0rem 8.8rem 1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .auto-group-mfpi-G2x .auto-group-tiax-6ap .group-101-toW .customer-service-hotline-1900-9001-Uv8 {
+  margin-right: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.address-shop-list-TVW .rectangle-10-mPS {
+  width: 100%;
+  height: 29.6rem;
+  background-color: #f05f42;
+  flex-shrink: 0;
+}
